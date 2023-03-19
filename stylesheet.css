@@ -1,8 +1,4 @@
-.footer-link{
-    color:#ffffff;
-    margin: 10px 20px;
-    text-decoration: none;
-}
+
 a:hover{
     color: greenyellow;
 }
@@ -16,11 +12,6 @@ body{
     margin: 0px;
     text-align: center;
     font-family: serif
-   
-    
-    
-    
-    
 }
 
 
@@ -41,14 +32,7 @@ body{
 .middle-container{
     margin: 100px 0;
 }
-.top-container{
-    
-    border: none;
-    position: relative;
-    padding-top: 100px;
-   
-    
-}
+
 
 .circular{
     border-radius: 50%;
@@ -62,6 +46,12 @@ body{
     font-family: sans-serif;
 
   }
+
+.footer-link{
+    color:#ffffff;
+    margin: 10px 20px;
+    text-decoration: none;
+}
   hr{
     border-style: none;
     border-color: grey;
@@ -123,6 +113,14 @@ h1{
     text-decoration: underline;
     color: brown;
 
+    
+}
+.top-container{
+    
+    border: none;
+    position: relative;
+    padding-top: 100px;
+   
     
 }
 
